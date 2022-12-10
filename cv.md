@@ -14,3 +14,15 @@ no programming skills
 ###Code examples
 
 No
+
+###Work experience
+
+No
+
+#Education
+
+Higher technical education
+
+###English
+
+Elementary

@@ -19,7 +19,7 @@ No
 
 No
 
-#Education
+###Education
 
 Higher technical education
 
